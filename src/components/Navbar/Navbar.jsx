@@ -20,7 +20,7 @@ const Navbar = () => {
                         <li><a>Contact</a></li>
                     </ul>
                     </div>
-                    <a className="btn bg-white shadow-none border-0 text-black -ml-5 text-sm lg:text-xl lg:ml-0">CS Ticket System</a>
+                    <a className="btn bg-white shadow-none border-0 text-black -ml-5  text-sm lg:text-xl">CS Ticket System</a>
                 </div>
                 <div className="navbar-end  w-full hidden lg:flex">
                     <ul className="menu menu-horizontal">
